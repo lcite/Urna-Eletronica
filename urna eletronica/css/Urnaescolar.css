@@ -1,0 +1,42 @@
+body { 
+    font-family: Arial, sans-serif;
+    background-color: #ff0101;
+    margin: 0;
+    padding: 30px;
+}
+.urnaescolar {
+    background-color: #fff;
+    max-width: 450px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center; 
+}
+ h1 {
+color: #0105ff;
+}
+form {
+display: flex;
+flex-direction: column;
+gap: 12px;
+text-align: left;
+}
+input {
+padding: 12px;
+font-size: 16px;
+}
+button {
+padding: 12px;
+background-color: #000000;
+color: white;
+border: none;
+cursor: pointer;
+font-size: 16px;
+}
+button:hover {
+background-color: #000000;
+}
+#mensagem {
+font-weight: bold;
+}
+ 
